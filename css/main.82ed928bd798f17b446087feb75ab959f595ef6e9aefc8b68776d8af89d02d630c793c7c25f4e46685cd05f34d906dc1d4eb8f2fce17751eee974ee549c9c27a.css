@@ -3,42 +3,42 @@
   font-family: 'Metropolis';
   font-style: normal;
   font-weight: 400;
-  src: local("Metropolis Regular"), local("Metropolis-Regular"), url("http://example.org/fonts/Metropolis-Regular.woff2") format("woff2"), url("http://example.org/fonts/Metropolis-Regular.woff") format("woff");
+  src: local("Metropolis Regular"), local("Metropolis-Regular"), url("https://mttttest.github.io/fonts/Metropolis-Regular.woff2") format("woff2"), url("https://mttttest.github.io/fonts/Metropolis-Regular.woff") format("woff");
 }
 
 @font-face {
   font-family: 'Metropolis';
   font-style: normal;
   font-weight: 300;
-  src: local("Metropolis Light"), local("Metropolis-Light"), url("http://example.org/fonts/Metropolis-Light.woff2") format("woff2"), url("http://example.org/fonts/Metropolis-Light.woff") format("woff");
+  src: local("Metropolis Light"), local("Metropolis-Light"), url("https://mttttest.github.io/fonts/Metropolis-Light.woff2") format("woff2"), url("https://mttttest.github.io/fonts/Metropolis-Light.woff") format("woff");
 }
 
 @font-face {
   font-family: 'Metropolis';
   font-style: italic;
   font-weight: 300;
-  src: local("Metropolis Light Italic"), local("Metropolis-LightItalic"), url("http://example.org/fonts/Metropolis-LightItalic.woff2") format("woff2"), url("http://example.org/fonts/Metropolis-LightItalic.woff") format("woff");
+  src: local("Metropolis Light Italic"), local("Metropolis-LightItalic"), url("https://mttttest.github.io/fonts/Metropolis-LightItalic.woff2") format("woff2"), url("https://mttttest.github.io/fonts/Metropolis-LightItalic.woff") format("woff");
 }
 
 @font-face {
   font-family: 'Metropolis';
   font-style: normal;
   font-weight: 500;
-  src: local("Metropolis Medium"), local("Metropolis-Medium"), url("http://example.org/fonts/Metropolis-Medium.woff2") format("woff2"), url("http://example.org/fonts/Metropolis-Medium.woff") format("woff");
+  src: local("Metropolis Medium"), local("Metropolis-Medium"), url("https://mttttest.github.io/fonts/Metropolis-Medium.woff2") format("woff2"), url("https://mttttest.github.io/fonts/Metropolis-Medium.woff") format("woff");
 }
 
 @font-face {
   font-family: 'Metropolis';
   font-style: italic;
   font-weight: 500;
-  src: local("Metropolis Medium Italic"), local("Metropolis-MediumItalic"), url("http://example.org/fonts/Metropolis-MediumItalic.woff2") format("woff2"), url("http://example.org/fonts/Metropolis-MediumItalic.woff") format("woff");
+  src: local("Metropolis Medium Italic"), local("Metropolis-MediumItalic"), url("https://mttttest.github.io/fonts/Metropolis-MediumItalic.woff2") format("woff2"), url("https://mttttest.github.io/fonts/Metropolis-MediumItalic.woff") format("woff");
 }
 
 @font-face {
   font-family: 'Cookie';
   font-style: normal;
   font-weight: 400;
-  src: local("Cookie-Regular"), url("http://example.org/fonts/cookie-v10-latin-regular.woff2") format("woff2"), url("http://example.org/fonts/cookie-v10-latin-regular.woff") format("woff");
+  src: local("Cookie-Regular"), url("https://mttttest.github.io/fonts/cookie-v10-latin-regular.woff2") format("woff2"), url("https://mttttest.github.io/fonts/cookie-v10-latin-regular.woff") format("woff");
 }
 
 :root {
@@ -285,7 +285,7 @@ aside h3 {
   position: relative;
   width: 1.5rem;
   height: 1.5rem;
-  background-image: url(http://example.org/images/icons/copy.svg);
+  background-image: url(https://mttttest.github.io/images/icons/copy.svg);
   background-size: 100%;
   cursor: pointer;
 }
@@ -468,7 +468,7 @@ aside h3 {
   align-items: center;
   text-align: center;
   font-size: 1rem;
-  background-image: url("http://example.org/images/icons/close.svg");
+  background-image: url("https://mttttest.github.io/images/icons/close.svg");
   background-size: 36% !important;
   border-left: 1px solid var(--bg);
   z-index: 2;
@@ -528,7 +528,7 @@ aside h3 {
 
 .never {
   min-height: 60vh;
-  background: url("http://example.org/images/sitting.svg");
+  background: url("https://mttttest.github.io/images/sitting.svg");
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: contain;
@@ -955,11 +955,11 @@ aside h3 {
 }
 
 .pager_prev {
-  background-image: url(http://example.org/images/icons/previous.svg);
+  background-image: url(https://mttttest.github.io/images/icons/previous.svg);
 }
 
 .pager_next {
-  background-image: url(http://example.org/images/icons/next.svg);
+  background-image: url(https://mttttest.github.io/images/icons/next.svg);
 }
 
 .pager_active {
@@ -1093,7 +1093,7 @@ aside h3 {
 .reply_btn {
   width: 1.75rem;
   height: 1.75rem;
-  background-image: url("http://example.org/images/icons/reply.svg");
+  background-image: url("https://mttttest.github.io/images/icons/reply.svg");
   cursor: pointer;
   margin-top: 1rem;
 }
